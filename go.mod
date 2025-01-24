@@ -1,2 +1,1 @@
-module github.com/trxxlzz/protos
-
+module protos
