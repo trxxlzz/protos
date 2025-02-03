@@ -1,4 +1,4 @@
-module protos
+module github.com/trxxlzz/protos
 
 go 1.23
 
